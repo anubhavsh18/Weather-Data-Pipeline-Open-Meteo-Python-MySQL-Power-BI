@@ -47,7 +47,7 @@ Understanding a full ETL pipeline from raw data to business insight
 
 🔗 Resources
 
-Open-Meteo API Docs
-Power BI Desktop
+Open-Meteo API Docs,
+Power BI Desktop,
 MySQL Connector/Python
 
